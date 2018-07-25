@@ -132,3 +132,5 @@ jekyll_pages_api_search:
     url:
       boost: 5
     body:
+
+theme: jekyll-theme-minimal
